@@ -1,9 +1,9 @@
+# [Broken Access Control](https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
+
 ## Examples:
-https://github.com/OWASP/railsgoat/wiki/A7-Missing-Function-Level-Access-Control--(Admin-Controller)
-https://pwning.owasp-juice.shop/part2/broken-access-control.html
+- https://github.com/OWASP/railsgoat/wiki/A7-Missing-Function-Level-Access-Control--(Admin-Controller)
+- https://pwning.owasp-juice.shop/part2/broken-access-control.html
 
-
-https://owasp.org/Top10/A01_2021-Broken_Access_Control/
 
 ## Description
 Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits. Common access control vulnerabilities include:

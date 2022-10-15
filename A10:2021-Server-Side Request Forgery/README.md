@@ -1,6 +1,8 @@
+# [Server Side Request Forgery](https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/)
+
 ## Examples:
-https://github.com/OWASP/railsgoat/wiki/R5-A10-Unvalidated-Redirects-and-Forwards-(redirect_to)
-https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/
+- https://github.com/OWASP/railsgoat/wiki/R5-A10-Unvalidated-Redirects-and-Forwards-(redirect_to)
+- https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/
 
 
 https://owasp.org/Top10/A10_2021-Server-Side_Request_Forgery_%28SSRF%29/

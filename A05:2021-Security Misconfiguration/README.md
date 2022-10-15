@@ -1,8 +1,8 @@
+# [Security Misconfiguration](https://owasp.org/Top10/A05_2021-Security_Misconfiguration/)
+
 ## Examples:
-https://pwning.owasp-juice.shop/part2/security-misconfiguration.html
+- https://pwning.owasp-juice.shop/part2/security-misconfiguration.html
 
-
-https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
 
 ## Description
 The application might be vulnerable if the application is:

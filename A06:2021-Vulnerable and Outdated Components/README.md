@@ -1,9 +1,9 @@
+# [Vulnerable and Outdated Components](https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/)
+
 ## Examples:
-https://pwning.owasp-juice.shop/part2/vulnerable-components.html
-https://github.com/OWASP/railsgoat/wiki/A9-Using-Components-with-Known-Vulnerabilities-(JQuery)
+- https://pwning.owasp-juice.shop/part2/vulnerable-components.html
+- https://github.com/OWASP/railsgoat/wiki/A9-Using-Components-with-Known-Vulnerabilities-(JQuery)
 
-
-https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
 
 ## Description
 You are likely vulnerable:

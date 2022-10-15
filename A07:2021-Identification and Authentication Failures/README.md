@@ -1,8 +1,8 @@
+# [Identification and Authentication Failures](https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/)
+
 ## Examples:
-https://github.com/OWASP/railsgoat/wiki/A2-Broken-Authentication-and-Session-Management
+- https://github.com/OWASP/railsgoat/wiki/A2-Broken-Authentication-and-Session-Management
 
-
-https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/
 
 ## Description
 Confirmation of the user's identity, authentication, and session management is critical to protect against authentication-related attacks. There may be authentication weaknesses if the application:
