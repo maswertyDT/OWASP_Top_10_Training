@@ -5,7 +5,7 @@ https://github.com/OWASP/railsgoat/wiki/R5-A1-Injection
 https://owasp.org/Top10/A03_2021-Injection/
 
 ## Description
-- An application is vulnerable to attack when:
+An application is vulnerable to attack when:
 
 - User-supplied data is not validated, filtered, or sanitized by the application.
 

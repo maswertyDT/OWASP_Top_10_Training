@@ -5,7 +5,7 @@ https://pwning.owasp-juice.shop/part2/security-misconfiguration.html
 https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
 
 ## Description
-- The application might be vulnerable if the application is:
+The application might be vulnerable if the application is:
 
 - Missing appropriate security hardening across any part of the application stack or improperly configured permissions on cloud services.
 

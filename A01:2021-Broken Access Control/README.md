@@ -6,7 +6,7 @@ https://pwning.owasp-juice.shop/part2/broken-access-control.html
 https://owasp.org/Top10/A01_2021-Broken_Access_Control/
 
 ## Description
-- Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits. Common access control vulnerabilities include:
+Access control enforces policy such that users cannot act outside of their intended permissions. Failures typically lead to unauthorized information disclosure, modification, or destruction of all data or performing a business function outside the user's limits. Common access control vulnerabilities include:
 
 - Violation of the principle of least privilege or deny by default, where access should only be granted for particular capabilities, roles, or users, but is available to anyone.
 

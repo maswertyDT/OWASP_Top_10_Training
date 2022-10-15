@@ -6,7 +6,7 @@ https://github.com/OWASP/railsgoat/wiki/A9-Using-Components-with-Known-Vulnerabi
 https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
 
 ## Description
-- You are likely vulnerable:
+You are likely vulnerable:
 
 - If you do not know the versions of all components you use (both client-side and server-side). This includes components you directly use as well as nested dependencies.
 

@@ -5,7 +5,7 @@ https://github.com/OWASP/railsgoat/wiki/A2-Broken-Authentication-and-Session-Man
 https://owasp.org/Top10/A07_2021-Identification_and_Authentication_Failures/
 
 ## Description
-- Confirmation of the user's identity, authentication, and session management is critical to protect against authentication-related attacks. There may be authentication weaknesses if the application:
+Confirmation of the user's identity, authentication, and session management is critical to protect against authentication-related attacks. There may be authentication weaknesses if the application:
 
 - Permits automated attacks such as credential stuffing, where the attacker has a list of valid usernames and passwords.
 
